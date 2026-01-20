@@ -1,0 +1,20 @@
+
+{
+  "short_name": "WanderLog",
+  "name": "WanderLog - AI Travel Journal",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/826/826070.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FBFBFE",
+  "background_color": "#FBFBFE",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "A poetic travel journal with AI enhancements and weather tracking."
+}
