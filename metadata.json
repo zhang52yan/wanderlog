@@ -1,0 +1,9 @@
+
+{
+  "name": "WanderLog - AI Travel Journal",
+  "description": "A sophisticated travel recording application featuring a real-time timeline, photo capture, and AI-powered memory enhancement for your adventures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
